@@ -1,3 +1,4 @@
+#game 
 import random
 choices = ["Rock", "Paper", "Scissors"]
 computer = random.choice(choices)
